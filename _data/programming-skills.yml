@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
+- name: NodeJS/JavaScript
+  percentage: 40
+  color: yellow
 
 - name: Python
-  percentage: 70
-  color: dark
+  percentage: 80
+  color: blue
+
+- name: Java
+  percentage: 30
+  color: brown

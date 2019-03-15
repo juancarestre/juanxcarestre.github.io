@@ -8,11 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm just a geek (someone who loves technology), I like to write code and sometimes I get obsessed trying to do something really cool. I am interested in all the whole lifecycle of software development, from databases, back-end APIs, unit tests, integration tests, frontend, client-side functional tests and more, all through from a beautiful DevOps pipeline that automates automation, I really like all these things.
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include skills.html title="Other Skills" source=site.data.other-skills %}
+{% include skills.html title="Learning right now" source=site.data.short-term-skills %}
 </div>
 
 <div class="row">

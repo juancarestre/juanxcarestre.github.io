@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Antioquia university, Medellin.
+  from: 2011
+  to: 2017
+  description: Telecomunications degree, focused mainly in networking, CISCO, 
+  Ethical Hacking, Scripting and Telematics
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Solutions developer, Accenture, Colombia.
+  from: 2017
+  to: 2018
+  description: Doing a bit of everything, mostly related 
+  to testing and software development, all in Python.
+
+- title: DevOps/QA, DAPI, Colombia.
+  from: 2017
+  to: 2018
+  description: Everything related to the entire lifecycle of the
+  Software development, this includes a lot of coding in JavaScript.

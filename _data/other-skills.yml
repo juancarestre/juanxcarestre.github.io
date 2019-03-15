@@ -1,7 +1,43 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Git
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Docker
+  percentage: 80
   color: success
+
+- name: Jenkins
+  percentage: 50
+  color: info
+
+- name: AWS (I really want/need to start with this right now!!)
+  percentage: 30
+  color: success
+
+- name: Scripting
+  percentage: 90
+  color: info
+
+- name: Selenium
+  percentage: 99
+  color: success
+
+- name: Appium
+  percentage: 50
+  color: info
+
+- name: UFT (Unified functional testing)
+  percentage: 70
+  color: success
+
+- name: Scrum
+  percentage: 80
+  color: info
+
+- name: Gaming
+  percentage: 100
+  color: red
+
+- name: PCMaster
+  percentage: 100
+  color: yellow
