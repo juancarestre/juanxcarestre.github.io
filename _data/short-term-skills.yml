@@ -1,11 +1,11 @@
-- name: React/FrontEnd
+- name: React - FrontEnd
   percentage: 5
   color: info
 
 - name: Docker
   percentage: 80
-  color: success
+  color: primary
 
 - name: AWS
   percentage: 30
-  color: info
+  color: dark

@@ -1,22 +1,22 @@
 - name: Git
   percentage: 80
-  color: info
+  color: warning
 
 - name: Docker
   percentage: 80
-  color: success
+  color: primary
 
 - name: Jenkins
   percentage: 50
-  color: info
+  color: secondary
 
-- name: AWS (I really want/need to start with this right now!!)
+- name: AWS (I really want-need to start with this right now!!)
   percentage: 30
-  color: success
+  color: dark
 
 - name: Scripting
   percentage: 90
-  color: info
+  color: success
 
 - name: Selenium
   percentage: 99
@@ -24,20 +24,20 @@
 
 - name: Appium
   percentage: 50
-  color: info
+  color: warning
 
 - name: UFT (Unified functional testing)
   percentage: 70
-  color: success
+  color: info
 
 - name: Scrum
   percentage: 80
-  color: info
+  color: dark
 
 - name: Gaming
   percentage: 100
-  color: red
+  color: danger
 
 - name: PCMaster
   percentage: 100
-  color: yellow
+  color: danger

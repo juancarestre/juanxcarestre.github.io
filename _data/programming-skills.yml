@@ -1,11 +1,11 @@
-- name: NodeJS/JavaScript
+- name: NodeJS - JavaScript
   percentage: 40
-  color: yellow
+  color: warning
 
 - name: Python
   percentage: 80
-  color: blue
+  color: info
 
 - name: Java
   percentage: 30
-  color: brown
+  color: dark
