@@ -1,14 +1,15 @@
 # Site settings
 title: ZumoDeCabezaDePeto
 description: >- # this means to ignore newlines until "baseurl:"
-  Solo puedo decir que tengo varios sobrenombres, entre ellos, 
-  El Juan, El JuanCa, El Crack, El 2.95, El Titan, El Tifon, 
-  El Warrior, El Kratos, El Puma, El Mastodonte, El Megalodon, 
-  El ManDeLosLoros, El Fiera, El Tornado, El Tormenta solar, 
-  El Impaktrueno, El Ralph Wolf, El Blackwargreymon, El LordComandante, 
-  El UltimaWeapon, El BestSingedDelValleDelAburra, El Obelisco el atormentador, 
-  El NasusFeed, El SakuraVsSasoriConLinkinParkDeFondo, El Jefe Maestro, 
-  El RobertoCarlos delantero de Gomito58.
+  Me llamo Juan, 30% gamer, 25% coder, 25% audiophile, 19% PCMaster, 
+  1% Telecommunications Engineer, 420% DankMemer. 
+  Tengo varios sobrenombres, El Crack, El 2.95, 
+  El Tifon, El Kratos, El Puma, El Mastodonte,  El Tormenta solar, 
+  El ManDeLosLoros, El Fiera, El LordComandante, 
+  El Impaktrueno, El RalphWolf, El Blackwargreymon, 
+  El UltimaWeapon, El BestSingedDelValleDelAburra, El ObeliscoElAtormentador, 
+  El NasusFeed, El SakuraVsSasoriConLinkinParkDeFondo, El Masterchief, 
+  El RobertoCarlos delantero de Gomito58. 
 
   Pero mas facil me dices Peto.
 baseurl: ""  # the subpath of your site, e.g. /blog
@@ -26,7 +27,7 @@ markdown: kramdown
 
 # Author Info
 author:
-  name     : Juan Restrepo
+  name     : JuanCaRestre (Peto)
   image    : https://avatars3.githubusercontent.com/u/25625702?s=400&u=af1cb66a371e770cb4fa545e4634ab1926781581&v=4
   email    : jcrestrepobedoya@gmail.com
   github   : juancarestre
