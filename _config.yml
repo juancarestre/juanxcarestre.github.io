@@ -4,14 +4,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Me llamo Juan, 30% gamer, 25% coder, 25% audiophile, 19% PCMaster, 
   1% Telecommunications Engineer, 420% DankMemer. 
   Tengo varios sobrenombres, El Crack, El 2.95, 
-  El Tifon, El Kratos, El Puma, El Mastodonte,  El Tormenta solar, 
-  El ManDeLosLoros, El Fiera, El LordComandante, 
-  El Impaktrueno, El RalphWolf, El Blackwargreymon, 
-  El UltimaWeapon, El BestSingedDelValleDelAburra, El ObeliscoElAtormentador, 
-  El NasusFeed, El SakuraVsSasoriConLinkinParkDeFondo, El Masterchief, 
+  El Kratos, El ManDeLosLoros, El LordComandante, 
+  El RalphWolf, El Blackwargreymon, 
+  El UltimaWeapon, El BestSingedDelValleDelAburra, El ObeliscoElAtormentador,
+  El SakuraVsSasoriConLinkinParkDeFondo, El Masterchief, 
   El RobertoCarlos delantero de Gomito58. 
-
   Pero mas facil me dices Peto.
+  
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: juancarestre/juancarestre.github.io
